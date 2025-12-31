@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/1fFDQxV0/Orange-and-Brown-Modern-Web-Developer-Presentation.png" alt="GitHub Banner" />
+  <img src="https://i.ibb.co.com/152Rv8g/Orange-and-Brown-Modern-Web-Developer-Presentation.jpg" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Subroto Chanda Shuvo</h1>
