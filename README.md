@@ -62,19 +62,13 @@ I enjoy learning new tools, improving my problem-solving skills, and turning ide
 ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubrotoChandaShuvo&theme=react" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SubrotoChandaShuvo&theme=dark)
 
 ### 📈 Contributions & Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SubrotoChandaShuvo&show_icons=true&theme=react" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubrotoChandaShuvo&show_icons=true&theme=dark&cache_seconds=86400)
 
 ### 🧠 Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotoChandaShuvo&layout=compact&theme=react" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotoChandaShuvo&layout=compact&theme=dark&cache_seconds=86400)
 
 
 ---
