@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/152Rv8g/Orange-and-Brown-Modern-Web-Developer-Presentation.jpg" alt="GitHub Banner" />
+  <img src="https://i.ibb.co.com/Tx142qyc/new-Banner.jpg" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Subroto Chanda Shuvo</h1>
@@ -59,18 +59,23 @@ I enjoy learning new tools, improving my problem-solving skills, and turning ide
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+  ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=SubrotoChandaShuvo&theme=dark)
+  <img src="https://github-readme-streak-stats-plum-five.vercel.app?user=SubrotoChandaShuvo&theme=dark&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="500" />
+<br>
 
 ### 📈 Contributions & Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubrotoChandaShuvo&show_icons=true&theme=dark&cache_seconds=86400)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SubrotoChandaShuvo&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" width="500" />
+<br>
 
 ### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotoChandaShuvo&layout=compact&theme=dark&cache_seconds=86400)
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SubrotoChandaShuvo&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" width="500"/>
 
-
----
+<br><br>
 
 ⭐ **Feel free to explore my repositories and connect with me!**
+</div>
+
