@@ -64,7 +64,10 @@ I enjoy learning new tools, improving my problem-solving skills, and turning ide
   ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-  <img src="https://github-readme-streak-stats-plum-five.vercel.app?user=SubrotoChandaShuvo&theme=dark&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="500" />
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph"  />
+</div>
+
 <br>
 
 ### 📈 Contributions & Stats
